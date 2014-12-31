@@ -96,38 +96,38 @@ We both inherited a small amount of money so I don't feel that I can whole-heart
 I genuinely believe that.
 
 <audio id='community'>
-<source src='/assets/audio/naomi/community.m4a'>
+<source src='{{site.url}}/assets/audio/naomi/community.m4a'>
 Your browser does not support audio so you can't hear the clips that go with this interview :(
 </audio>
 <audio id="estranged">
-	<source src="/assets/audio/naomi/estranged.m4a">
+	<source src="{{site.url}}/assets/audio/naomi/estranged.m4a">
 	Your browser does not support audio so you can't hear the clips that go with this interview :(
 </audio>
 <audio id="community">
-	<source src="/assets/audio/naomi/community.m4a">
+	<source src="{{site.url}}/assets/audio/naomi/community.m4a">
 	Your browser does not support audio so you can't hear the clips that go with this interview :(
 </audio>
 <audio id="narrowboat">
-	<source src="/assets/audio/naomi/narrowboat.m4a">
+	<source src="{{site.url}}/assets/audio/naomi/narrowboat.m4a">
 	Your browser does not support audio so you can't hear the clips that go with this interview :(
 </audio>
 <audio id="horticulture">
-	<source src="/assets/audio/naomi/horticulture.m4a">
+	<source src="{{site.url}}/assets/audio/naomi/horticulture.m4a">
 	Your browser does not support audio so you can't hear the clips that go with this interview :(
 </audio>
 <audio id="tinkers">
-	<source src="/assets/audio/naomi/tinkers.m4a">
+	<source src="{{site.url}}/assets/audio/naomi/tinkers.m4a">
 	Your browser does not support audio so you can't hear the clips that go with this interview :(
 </audio>
 <audio id="choices">
-	<source src="/assets/audio/naomi/choices.m4a">
+	<source src="{{site.url}}/assets/audio/naomi/choices.m4a">
 	Your browser does not support audio so you can't hear the clips that go with this interview :(
 </audio>
 <audio id="lowimpact">
-	<source src="/assets/audio/naomi/lowimpact.m4a">
+	<source src="{{site.url}}/assets/audio/naomi/lowimpact.m4a">
 	Your browser does not support audio so you can't hear the clips that go with this interview :(
 </audio>
 <audio id="brave">
-	<source src="/assets/audio/naomi/brave.m4a">
+	<source src="{{site.url}}/assets/audio/naomi/brave.m4a">
 	Your browser does not support audio so you can't hear the clips that go with this interview :(
 </audio>
