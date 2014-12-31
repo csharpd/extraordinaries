@@ -22,12 +22,12 @@ I went to York university to study literature and journalism. Thinking I would f
 
 >I saw that there is a whole world beyone the human world and realised that when I was in it
 <span data-clip="estranged" class="hover_clip">
-I felt like a more connected human being.</span>
+I felt like a more connected human being. <img src="{{site.url}}/images/speaker.png"></span>
 
 Through that I became passionate about the fact that we need to protect this world for ourselves and all other living beings. I realized that there is a lot that is destructive. Around that time the friends that I had made and I started to become politicized around climate change and the environment.
 
 ####What did you do after university?
-I decided to get work in environmental education. At the time I was living in the countryside. I got a lot of joy from being in nature but I felt that I wasn’t doing what I needed to be doing. I wanted to work with children who, like i had, are growing up not knowing where things came from and are therefore unable to make informed choices. I wanted to be part of that change. Very luckily I got a job on [Spitafields City Farm]() so I decided to move back to London. I spent five years there <span data-clip="community" class="hover_clip">and discovered an entire world.</span> During that time the farm supported me to study horticulture. I started doing  work that combined gardening and helping people with special needs; young people with learning difficulties and mental health problems. I also did an apprenticeship with an urban market garden near Epping forest so I became much more knowledgeable about food production. There I met Pip who was doing similar work (Naomi's partner) and we lived on a narrow boat for a few years. <span data-clip="narrowboat" class="hover_clip">That really extended the amount of time that we felt we could stay in London.</span> But ultimately we felt like we couldn't stay forever.
+I decided to get work in environmental education. At the time I was living in the countryside. I got a lot of joy from being in nature but I felt that I wasn’t doing what I needed to be doing. I wanted to work with children who, like i had, are growing up not knowing where things came from and are therefore unable to make informed choices. I wanted to be part of that change. Very luckily I got a job on [Spitafields City Farm]() so I decided to move back to London. I spent five years there <span data-clip="community" class="hover_clip">and discovered an entire world. <img src="{{site.url}}/images/speaker.png"></span> During that time the farm supported me to study horticulture. I started doing  work that combined gardening and helping people with special needs; young people with learning difficulties and mental health problems. I also did an apprenticeship with an urban market garden near Epping forest so I became much more knowledgeable about food production. There I met Pip who was doing similar work (Naomi's partner) and we lived on a narrow boat for a few years. <span data-clip="narrowboat" class="hover_clip">That really extended the amount of time that we felt we could stay in London. <img src="{{site.url}}/images/speaker.png"></span> But ultimately we felt like we couldn't stay forever.
 
 ####What was it about London that made you feel like you couldn't stay there?
 Although I had found work and a community that I loved, I still struggled with the consumerism. It was so loud, I couldn't turn it off. I watched people be able to read a book and stuff headphones in their ears and be able to turn off to London but from a tiny child I found it really painful.
@@ -39,9 +39,9 @@ Although I had found work and a community that I loved, I still struggled with t
 ###So what did you do?
 >Pip and I left London on our bicycles. We cycled to the south east of england and went [WWOOFing](http://www.wwoof.net/) at fifteen different places in total.
 
-During that time I also did a distance-learning course <span data-clip="horticulture" class="hover_clip">in social & therapeutic horticulture.</span> That year of exploration has given us a really amazing overview of how we would eventually like to live on our own piece of land. We would definitely like to <span data-clip="lowimpact" class="hover_clip">draw from many of the low impact principles that we saw whilst living at Tinkers Bubble</span>. We ended up staying there for a year and a half. You are living as close to nature there as I have seen anywhere in the UK. Though we did learn that that although we love community, we also really value our own family space. We can function and give a lot more when we have a bit more autonomy.
+During that time I also did a distance-learning course <span data-clip="horticulture" class="hover_clip">in social & therapeutic horticulture. <img src="{{site.url}}/images/speaker.png"></span> That year of exploration has given us a really amazing overview of how we would eventually like to live on our own piece of land. We would definitely like to <span data-clip="lowimpact" class="hover_clip">draw from many of the low impact principles that we saw whilst living at Tinkers Bubble <img src="{{site.url}}/images/speaker.png"></span>. We ended up staying there for a year and a half. You are living as close to nature there as I have seen anywhere in the UK. Though we did learn that that although we love community, we also really value our own family space. We can function and give a lot more when we have a bit more autonomy.
 
-####What was life like at <span data-clip ="tinkers" class="hover_clip">Tinkers Bubble.</span>?
+####What was life like at <span data-clip ="tinkers" class="hover_clip">Tinkers Bubble. <img src="{{site.url}}/images/speaker.png"></span>?
 It's governing ethos is to live sustainably on the land and to be commited to living without the use of combustion engines on site. Everything is done with hand tools, food is cooked and houses are warmed with wood. They went to the highcourt and got planning permisson for temporary dwelling for up to 18 adults. In theory eveyone works roughly 2 days a week; growing food, looking after the land and cooking for the community. But in reality it worked out as a lot more time.
 
 >There's 40 acres of land there, and when you use only hand tools, it needs a lot of work. There is always stuff to do.
@@ -51,7 +51,7 @@ The rest of the time you are free to go into the local community and earn money 
 >I like being an ambassador for what is seen as quite an extreme way of living, whilst hopefully coming across as someone who is quite normal and approachable.
 
 ####Why are the people at Tinkers choosing to live like that?
-<span data-clip="choices" class="hover_clip">I can't speak for everyone but..</span>
+<span data-clip="choices" class="hover_clip">I can't speak for everyone but.. <img src="{{site.url}}/images/speaker.png"></span>
 
 ####It sounds like hard work.
 It is hard work. It is definitely hard work, but a lot of the time the connectedness that comes from that outweighs that. I think what you also realize is that you are dealing with alternative economies.
@@ -91,7 +91,7 @@ I think number one will be a home where we continue to experiment with subsisten
 #### Money is often seen to buy security. Even if a life closer to nature does tempt people, most don't have the courage to turn their back on their jobs. What would you say to them?
 We both inherited a small amount of money so I don't feel that I can whole-heartedly say that you can do it with nothing. Knowing that we have this bit of money to buy land has helped me to be brave. But I have met others who have done it with nothing.
 
->And when you start making change in your life, really facing the unknown, once you have done that <span data-clip="brave" class="hover_clip">you start to realize that fortune favors the brave.</span> And although it can be frightening, and there are all these logical reasons why you shouldn't be doing it, special things start happening.
+>And when you start making change in your life, really facing the unknown, once you have done that <span data-clip="brave" class="hover_clip">you start to realize that fortune favors the brave. <img src="{{site.url}}/images/speaker.png"></span> And although it can be frightening, and there are all these logical reasons why you shouldn't be doing it, special things start happening.
 
 I genuinely believe that.
 

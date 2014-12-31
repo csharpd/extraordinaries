@@ -26,3 +26,11 @@ sitemap: false
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 //@import "vendor/google/fonts";
+
+span {
+   background-color: #fcf3e7;
+ }
+ span:hover {
+   background-color: grey;
+   color: white;
+ }

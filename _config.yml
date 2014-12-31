@@ -29,7 +29,7 @@ kramdown:
 owner:
   name: Chloe Donegan
   avatar: twirlface.png
-  bio: "Describe your self."
+  bio:
   email:
   disqus-shortname: cdonegan
   twitter: chloe_does
