@@ -71,7 +71,15 @@
   </footer>
 </div><!-- /.footer-wrap -->
 
-{% include _scripts.html %}	        
+{% include _scripts.html %}
+    <script>
+			$('.hover_clip').mouseenter(function(){
+				$('#'+ $(this).data('clip'))[0].play()
+			});
+			$('.hover_clip').mouseleave(function(){
+				$('#'+ $(this).data('clip'))[0].pause()
+			});
+		</script>
 
 </body>
 </html>

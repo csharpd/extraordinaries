@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Site Title
+title:            THE EXTRAORDINARYS
 locale:           en_US
-url: http://csharpd.github.io/extraordinaries/
-baseurl: http://csharpd.github.io/extraordinaries/
+url: /extraordinaries
+baseurl: /extraordinaries
 
 
 # Jekyll configuration
@@ -27,12 +27,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
+  name: Chloe Donegan
+  avatar: twirlface.png
   bio: "Describe your self."
   email:
-  disqus-shortname:
-  twitter: #username
+  disqus-shortname: cdonegan
+  twitter: chloe_does
   facebook: #username
   google:
     plus: #username
