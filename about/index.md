@@ -10,8 +10,6 @@ image:
   creditlink:
 ---
 
-The Extraordinarys is features ordinary people doing remarkable things.
+The Extraordinaries features ordinary people doing remarkable things.
 
-### Know someone like that?
-
-Tell [Chloe](https://twitter.com/ThisIsChloeD)
+Do you know someone like that? Tell [Chloe](https://twitter.com/ThisIsChloeD)
