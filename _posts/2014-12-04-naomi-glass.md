@@ -8,6 +8,7 @@ tags: []
 image:
   feature:
 author: naomi
+comments: true
 ---
 
 ####Tell me about where you come from...
@@ -27,7 +28,16 @@ I felt like a more connected human being. <img src="{{site.url}}/images/speaker.
 Through that I became passionate about the fact that we need to protect this world for ourselves and all other living beings. I realized that there is a lot that is destructive. Around that time the friends that I had made and I started to become politicized around climate change and the environment.
 
 ####What did you do after university?
-I decided to get work in environmental education. At the time I was living in the countryside. I got a lot of joy from being in nature but I felt that I wasn’t doing what I needed to be doing. I wanted to work with children who, like i had, are growing up not knowing where things came from and are therefore unable to make informed choices. I wanted to be part of that change. Very luckily I got a job on [Spitafields City Farm]() so I decided to move back to London. I spent five years there <span data-clip="community" class="hover_clip">and discovered an entire world. <img src="{{site.url}}/images/speaker.png"></span> During that time the farm supported me to study horticulture. I started doing  work that combined gardening and helping people with special needs; young people with learning difficulties and mental health problems. I also did an apprenticeship with an urban market garden near Epping forest so I became much more knowledgeable about food production. There I met Pip who was doing similar work (Naomi's partner) and we lived on a narrow boat for a few years. <span data-clip="narrowboat" class="hover_clip">That really extended the amount of time that we felt we could stay in London. <img src="{{site.url}}/images/speaker.png"></span> But ultimately we felt like we couldn't stay forever.
+I decided to get work in environmental education. At the time I was living in the countryside. I got a lot of joy from being in nature but I felt that I wasn’t doing what I needed to be doing. I wanted to work with children who, like i had, are growing up not knowing where things came from and are therefore unable to make informed choices. I wanted to be part of that change. Very luckily I got a job on [Spitafields City Farm]() so I decided to move back to London. I spent five years there <span data-clip="community" class="hover_clip">and discovered an entire world. <img src="{{site.url}}/images/speaker.png"></span>
+<br>
+<br>
+![]({{site.url}}/images/naomi/cityfarm.jpg)
+<br>
+<br>
+During that time the farm supported me to study horticulture. I started doing  work that combined gardening and helping people with special needs; young people with learning difficulties and mental health problems. I also did an apprenticeship with an urban market garden near Epping forest so I became much more knowledgeable about food production. There I met Pip who was doing similar work (Naomi's partner) and we lived on a narrow boat for a few years. <span data-clip="narrowboat" class="hover_clip">That really extended the amount of time that we felt we could stay in London. <img src="{{site.url}}/images/speaker.png"></span> But ultimately we felt like we couldn't stay forever.
+<br>
+<br>
+![]({{site.url}}/images/naomi/narrowboat.jpg)
 
 ####What was it about London that made you feel like you couldn't stay there?
 Although I had found work and a community that I loved, I still struggled with the consumerism. It was so loud, I couldn't turn it off. I watched people be able to read a book and stuff headphones in their ears and be able to turn off to London but from a tiny child I found it really painful.
@@ -39,19 +49,32 @@ Although I had found work and a community that I loved, I still struggled with t
 ###So what did you do?
 >Pip and I left London on our bicycles. We cycled to the south east of england and went [WWOOFing](http://www.wwoof.net/) at fifteen different places in total.
 
-During that time I also did a distance-learning course <span data-clip="horticulture" class="hover_clip">in social & therapeutic horticulture. <img src="{{site.url}}/images/speaker.png"></span> That year of exploration has given us a really amazing overview of how we would eventually like to live on our own piece of land. We would definitely like to <span data-clip="lowimpact" class="hover_clip">draw from many of the low impact principles that we saw whilst living at Tinkers Bubble <img src="{{site.url}}/images/speaker.png"></span>. We ended up staying there for a year and a half. You are living as close to nature there as I have seen anywhere in the UK. Though we did learn that that although we love community, we also really value our own family space. We can function and give a lot more when we have a bit more autonomy.
+
+![]({{site.url}}/images/naomi/bike.jpg)
+<br>
+<br>
+During that time I did a distance-learning course <span data-clip="horticulture" class="hover_clip">in social & therapeutic horticulture. <img src="{{site.url}}/images/speaker.png"></span> That year of exploration has given us a really amazing overview of how we would eventually like to live on our own piece of land. We would definitely like to <span data-clip="lowimpact" class="hover_clip">draw from many of the low impact principles that we saw whilst living at Tinkers Bubble <img src="{{site.url}}/images/speaker.png"></span>. We ended up staying there for a year and a half. You are living as close to nature there as I have seen anywhere in the UK. Though we did learn that that although we love community, we also really value our own family space. We can function and give a lot more when we have a bit more autonomy.
+<br>
+<br>
+![]({{site.url}}/images/naomi/tinkers.jpg)
 
 ####What was life like at <span data-clip ="tinkers" class="hover_clip">Tinkers Bubble. <img src="{{site.url}}/images/speaker.png"></span>?
 It's governing ethos is to live sustainably on the land and to be commited to living without the use of combustion engines on site. Everything is done with hand tools, food is cooked and houses are warmed with wood. They went to the highcourt and got planning permisson for temporary dwelling for up to 18 adults. In theory eveyone works roughly 2 days a week; growing food, looking after the land and cooking for the community. But in reality it worked out as a lot more time.
 
 >There's 40 acres of land there, and when you use only hand tools, it needs a lot of work. There is always stuff to do.
 
+![]({{site.url}}/images/naomi/horse.jpg)
+<br>
+<br>
 The rest of the time you are free to go into the local community and earn money or work on personal projects. I worked with an organization offsite, running nature and craft activities with women from a refuge. I really enjoyed the work onsite but I also really valued being part of the local community.
 
 >I like being an ambassador for what is seen as quite an extreme way of living, whilst hopefully coming across as someone who is quite normal and approachable.
 
-####Why are the people at Tinkers choosing to live like that?
+####Why are the people at Tinkers motivated to live in a low impact way?
 <span data-clip="choices" class="hover_clip">I can't speak for everyone but.. <img src="{{site.url}}/images/speaker.png"></span>
+<br>
+<br>
+![]({{site.url}}/images/naomi/kitchen.jpg)
 
 ####It sounds like hard work.
 It is hard work. It is definitely hard work, but a lot of the time the connectedness that comes from that outweighs that. I think what you also realize is that you are dealing with alternative economies.
@@ -65,6 +88,8 @@ Most of the time that I was there I was either pregnant or had a very small baby
 
 >We had a ritual of getting up every morning to light our little rocket stove and warm water so that we could wash the nappies and make breakfast. We had a little garden that we grew vegetables in. We lived in the woods so we were able to step out doors and be in the most utterly beautiful place.
 
+![]({{site.url}}/images/naomi/beautiful.jpg)
+
 ####Where there ever moments when you doubted that way of living? Became frustrated perhaps?
 Sharing communal spaces is hard, like it always is with shared houses. I found the mess difficult. Especially because the more pregnant I got, the more I was up in the settlement zone and not doing any of the heavy work so I spent a lot of time in that space. Also having a child and being committed to using reusable nappies meant that my life was transformed. Trying to wash nappies could take 4 hours, heating enough water etc.
 
@@ -75,7 +100,6 @@ At the time I was very accepting of it. But now having left and thinking about i
 >"Well yeah - the invention of the washing machine was a big step in feminism".
 
 [Trill Farm - where Naomi lives now has electricity a washing machine] I still very much believe in limiting the use of fossil fuels, saving them for things that we really need (like hospitals) but I am now benefiting from using them in moderation, in terms of having more time to spend with my child.
-
 
 ####You must have changed a lot from the day that you set out on your bicycle.
 On a personal level, I was still very much caught up in the definitions of ambition and success that I had been brought up with.

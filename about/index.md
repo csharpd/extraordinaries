@@ -11,5 +11,4 @@ image:
 ---
 
 The Extraordinaries features ordinary people doing remarkable things.
-
-Do you know someone like that? Tell [Chloe](https://twitter.com/ThisIsChloeD)
+Know someone like that? Tell [Chloe](https://twitter.com/ThisIsChloeD)
