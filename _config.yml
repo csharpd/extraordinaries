@@ -24,6 +24,14 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
+social:
+  - icon:	twitter
+    url:	https://twitter.com/chloe_does
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+    blurb: Meet
 
 # Site owner
 owner:
