@@ -59,7 +59,6 @@ span {
 }
 
 .icon {
-
     > svg {
         display: inline-block;
         width: 16px;
@@ -72,3 +71,44 @@ span {
       }
     }
 
+form.newsletter input[type="submit"], form.search input[type="submit"] {
+background: black;
+border: none;
+border-radius: 0 2px 2px 0;
+color: white;
+float: left;
+font: 12px/22px din-light, sans-serif;
+height: 27px;
+overflow: hidden;
+padding: 3px 10px 1px;
+text-transform: uppercase;
+}
+
+form.newsletter input[type="text"], form.search input[type="text"] {
+border: 1px solid #d0d0d0;
+border-right: 0;
+border-radius: 2px 0 0 2px;
+color: #797979;
+float: left;
+font-size: 11px;
+line-height: 14px;
+padding: 6px 5px 5px;
+width:130px;
+display: block;
+}
+
+form {
+display: inline-block;
+}
+
+.newsletter-wrapper {
+margin-top: 290px;
+}
+
+// label {
+//     /* Other styling.. */
+//     text-align: right;
+//     clear: both;
+//     float:left;
+//     margin-right:15px;
+// }
