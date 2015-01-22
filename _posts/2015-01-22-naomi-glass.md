@@ -10,7 +10,7 @@ image:
 author: naomi
 comments: true
 ---
-*I met Naomi when I was living at Trill Farm in Devon. When I first arrived I would often see her wondering through the farm with her baby daughther, Elma strapped to her back. I knew nothing about her but I felt very compelled to speak to her about her life. Both she & Elma always looked so incredibly happy. I felt certain that she was doing something extraordinary.*
+*I met Naomi when I was living at Trill Farm in Devon. When I first arrived I would often see her wandering through the farm with her baby daughther, Elma strapped to her back. I knew nothing about her but I felt very compelled to speak to her about her life. Both she & Elma always looked so incredibly happy. I felt certain that she was doing something extraordinary.*
 
 ####Where are you from?
 I grew up in London, in the suburbs. It wasn't high-rise but it meant that my experience of the world was primarily through arts and culture. I always knew that I wanted to do something that made a difference.
