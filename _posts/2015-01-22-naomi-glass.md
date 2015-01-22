@@ -120,7 +120,7 @@ I think number one will be a home where we continue to experiment with subsisten
 We both inherited a small amount of money so I don't feel that I can whole-heartedly say that you can do it with nothing. Knowing that we have this bit of money to buy land has helped me to be brave. But I have met others who have done it with nothing.
 <br>
 <br>
-And when you start making change in your life, really facing the unknown, once you have done that <span data-clip="brave" class="hover_clip">you start to realize that fortune really does favor the brave. <img src="{{site.url}}/images/speaker.png"></span> And although it can be frightening, and there are all these logical reasons why you shouldn't be doing it, special things start happening.
+And when you start making change in your life, really facing the unknown, once you have done that <span data-clip="brave" class="hover_clip">you start to realise that fortune really does favour the brave. <img src="{{site.url}}/images/speaker.png"></span> And although it can be frightening, and there are all these logical reasons why you shouldn't be doing it, special things start happening.
 <br>
 <br>
 I genuinely believe that.
