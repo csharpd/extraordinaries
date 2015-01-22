@@ -65,6 +65,7 @@ There's 40 acres of land there, and when you use only hand tools, it needs a lot
 <br>
 <br>
 ![]({{site.url}}/images/naomi/horse.jpg)
+<small>Photo by [Eleri Griffiths](http://www.elerigriffithsphotography.co.uk/tiker-bubble/). View more at [http://www.elerigriffithsphotography.co.uk/](http://www.elerigriffithsphotography.co.uk/tiker-bubble/)</small>
 <br>
 <br>
 The rest of the time you are free to go into the local community and earn money or work on personal projects. I worked with an organization offsite, running nature and craft activities with women from a refuge. I loved the work onsite but I also really valued being part of the local community.
@@ -76,6 +77,7 @@ The rest of the time you are free to go into the local community and earn money 
 <br>
 <br>
 ![]({{site.url}}/images/naomi/kitchen.jpg)
+<small>Photo by [Eleri Griffiths](http://www.elerigriffithsphotography.co.uk/tiker-bubble/). View more at [http://www.elerigriffithsphotography.co.uk/](http://www.elerigriffithsphotography.co.uk/tiker-bubble/)</small>
 
 ####It sounds like hard work.
 It is hard work. It is definitely hard work, but a lot of the time the connectedness that comes from that outweighs that. I think what you also realize is that you are dealing with alternative economies.
@@ -90,6 +92,7 @@ Most of the time that I was there I was either pregnant or had a very small baby
 >We had a ritual of getting up every morning to light our little rocket stove and warm water so that we could wash the nappies and make breakfast. We had a little garden that we grew vegetables in. We lived in the woods so we were able to step out of our door and be in the most utterly beautiful place.
 
 ![]({{site.url}}/images/naomi/beautiful.jpg)
+<small>Photo by [Eleri Griffiths](http://www.elerigriffithsphotography.co.uk/tiker-bubble/). View more at [http://www.elerigriffithsphotography.co.uk/](http://www.elerigriffithsphotography.co.uk/tiker-bubble/)</small>
 
 ####Where there ever moments when you doubted that way of living? Became frustrated perhaps?
 Sharing communal spaces is hard, like it always is with shared houses. I found the mess difficult. Especially because the more pregnant I got, the more I was up in the settlement zone and not doing any of the heavy work so I spent a lot of time in that space. Also having a child and being committed to using reusable nappies meant that my life was transformed. Trying to wash nappies could take 4 hours, heating enough water etc.
@@ -101,6 +104,8 @@ At the time I was very accepting of it. But now having left and thinking about i
 >"Well yeah - the invention of the washing machine was a big step in feminism".
 
 [Trill Farm - where Naomi lives now has electricity a washing machine] I still very much believe in limiting the use of fossil fuels, saving them for things that we really need (like hospitals) but I am now benefiting from using them in moderation, in terms of having more time to spend with my child.
+
+![]({{site.url}}/images/naomi/elma.jpg)
 
 ####You must have changed a lot from the day that you set out on your bicycle.
 On a personal level, I was still very much caught up in the definitions of ambition and success that I had been brought up with. Leaving London to the unknown, I had to deal with questions around identity that bubbled up with that.
