@@ -24,11 +24,6 @@ about marginalisation in Tech. There was an
 opportunity for Lyst as a business to affect these issues in a positive way
 but I realised there was also an opportunity for me being a loud aggressive Irish bloke to have an impact too.
 
-<br>
-<br>
-![]({{site.url}}/images/steve/stormtrooper.jpg)
-<br>
-<br>
 
 ####How do you mean?
 For example, when I sit up and say "You should read about this blog posts about having a [Tampon Club](http://alicebartlett.co.uk/blog/tampon-club) at work" other
@@ -37,6 +32,13 @@ people like me tend to go "oh, okay, I'll read this thing".
 We should start thinking about stuff like this". They are the ones that can affect most
 of the change as they are the ones who have caused many of the problems in the first
 place.
+
+
+<br>
+<br>
+![]({{site.url}}/images/steve/stormtrooper.jpg)
+<br>
+<br>
 
 
 ####What are you proudest of achieving?
